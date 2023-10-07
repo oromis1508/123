@@ -41,3 +41,4 @@ console.log(typeof int);
 console.log(typeof obj);
 console.log(typeof arr);
 console.log(typeof var3);
+//asd
