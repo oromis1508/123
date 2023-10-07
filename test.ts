@@ -42,3 +42,4 @@ console.log(typeof obj);
 console.log(typeof arr);
 console.log(typeof var3);
 //asd
+//asd
